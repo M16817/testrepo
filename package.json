@@ -1,0 +1,25 @@
+{
+  "name": "Demoapp",
+  "version": "1.0.0",
+  "description": "to create test cards",
+  "main": "app.js",
+
+  "dependencies": {
+   "apiai": "^2.0.5",
+   "body-parser": "^1.15.1",
+   "express": "^4.13.4"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShrutiVi-hexaware/TestCards.git"
+  },
+  "author": "shruti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShrutiVi-hexaware/TestCards/issues"
+  },
+  "homepage": "https://github.com/ShrutiVi-hexaware/TestCards#readme"
+}
